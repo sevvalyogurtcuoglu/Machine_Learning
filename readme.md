@@ -1,3 +1,2 @@
 # Readme 
-
-@ ozgecokca
+@https://github.com/ozgecokca
