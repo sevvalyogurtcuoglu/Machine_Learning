@@ -1,2 +1,3 @@
 # Readme 
-@https://github.com/ozgecokca
+
+The realization of the project was carried out with  @https://github.com/ozgecokca
