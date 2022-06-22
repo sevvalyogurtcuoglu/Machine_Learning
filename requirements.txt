@@ -8,7 +8,7 @@ librosa==0.7.2
 llvmlite==0.33.0
 matplotlib==3.2.2
 numba==0.50.0
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 pycparser==2.20
 pyparsing==2.4.7
